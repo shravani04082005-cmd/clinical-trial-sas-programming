@@ -4,7 +4,7 @@ USUBJID and yes it is the same everywhere.
 b) What does the spec say each dataset is “one row per”? Write one line per dataset in your own words.
 dm: one row per subject
 ae: one row per subject per adverse event
-vs: one row per subject per visit per test
+vs: one row per subject per visit 
 lb: one row per subject per visit per test
 
 c) The spec uses USUBJID. Write one sentence on why a plain subject number wouldn’t be safe in a 5-site study.
