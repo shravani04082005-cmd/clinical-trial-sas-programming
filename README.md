@@ -20,7 +20,6 @@ SAS OnDemand for Academics (SAS Studio)
 ```
 data/raw/    raw CSV files (never edited)
 data/clean/  cleaned datasets
-sas/         SAS programs
 programs/    SAS programs
 docs/        study spec, cleaning log, notes
 output/      tables and figures
